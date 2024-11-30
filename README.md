@@ -1,4 +1,4 @@
-![Top_Languages](https://github-readme-stats-cyan-one-57.vercel.app/api?username=kreadiv&show_icons=true&theme=radical)
+![Top_Languages]([https://github-readme-stats-omega-mocha-61.vercel.app/api?username=kreadiv&show_icons=true&theme=radical)
 
 
 ## 🌐 Kontakt
